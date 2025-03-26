@@ -19,6 +19,13 @@ university courses (desktop application).
 
 ## 1 Overview
 
+Robotic Hand Sensors and Control Systems Telemetry Display Application.
+
+Combined final project for:
+
+1. Actuators and Power Electronics (METE3100U), Dr. Aaron Yurkewich.
+2. Sensors and Instrumentation (METE3200U), Dr. Shabnam Pejhan.
+
 [WIP]()
 
 > Drawio file here: `WIP`
